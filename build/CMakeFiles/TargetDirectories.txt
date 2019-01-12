@@ -1,0 +1,3 @@
+/Users/apple/CLionProjects/Hangman_Game/build/CMakeFiles/rebuild_cache.dir
+/Users/apple/CLionProjects/Hangman_Game/build/CMakeFiles/edit_cache.dir
+/Users/apple/CLionProjects/Hangman_Game/build/CMakeFiles/Hangman_Game.dir
